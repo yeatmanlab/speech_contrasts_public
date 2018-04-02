@@ -1,0 +1,10 @@
+2017-8-22,9:12:45
+trial,sound1,sound2,sound3,sound4,selection,RT
+1,Ba_Da_Step_7.wav,Ba_Da_Step_7.wav,Ba_Da_Step_1.wav,Ba_Da_Step_7.wav,3,9.104800e-01
+2,Ba_Da_Step_7.wav,Ba_Da_Step_7.wav,Ba_Da_Step_1.wav,Ba_Da_Step_7.wav,3,6.354640e-01
+3,Ba_Da_Step_1.wav,Ba_Da_Step_1.wav,Ba_Da_Step_7.wav,Ba_Da_Step_1.wav,3,7.118969e-01
+4,Ba_Da_Step_7.wav,Ba_Da_Step_1.wav,Ba_Da_Step_7.wav,Ba_Da_Step_7.wav,3,5.024412e-01
+5,Ba_Da_Step_1.wav,Ba_Da_Step_7.wav,Ba_Da_Step_1.wav,Ba_Da_Step_1.wav,3,5.776420e-01
+6,Ba_Da_Step_1.wav,Ba_Da_Step_7.wav,Ba_Da_Step_1.wav,Ba_Da_Step_1.wav,2,1.428022e+00
+7,Ba_Da_Step_1.wav,Ba_Da_Step_1.wav,Ba_Da_Step_7.wav,Ba_Da_Step_1.wav,3,2.394424e+00
+8,Ba_Da_Step_7.wav,Ba_Da_Step_1.wav,Ba_Da_Step_7.wav,Ba_Da_Step_7.wav,3,1.057516e+00

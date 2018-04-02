@@ -1,0 +1,2 @@
+2017-9-21,10:47:27
+trial,stimulus,sound1,sound2,selection,RT

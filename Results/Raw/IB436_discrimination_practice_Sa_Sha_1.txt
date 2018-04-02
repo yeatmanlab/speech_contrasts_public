@@ -1,0 +1,10 @@
+2017-8-18,12:54:39
+trial,sound1,sound2,sound3,sound4,selection,RT
+1,Sa_Sha_Step_7.wav,Sa_Sha_Step_7.wav,Sa_Sha_Step_1.wav,Sa_Sha_Step_7.wav,2,2.820385e+00
+2,Sa_Sha_Step_1.wav,Sa_Sha_Step_7.wav,Sa_Sha_Step_1.wav,Sa_Sha_Step_1.wav,2,1.324449e+00
+3,Sa_Sha_Step_1.wav,Sa_Sha_Step_7.wav,Sa_Sha_Step_1.wav,Sa_Sha_Step_1.wav,2,3.753591e-01
+4,Sa_Sha_Step_1.wav,Sa_Sha_Step_1.wav,Sa_Sha_Step_7.wav,Sa_Sha_Step_1.wav,3,5.782580e-01
+5,Sa_Sha_Step_7.wav,Sa_Sha_Step_7.wav,Sa_Sha_Step_1.wav,Sa_Sha_Step_7.wav,3,5.486560e-01
+6,Sa_Sha_Step_7.wav,Sa_Sha_Step_1.wav,Sa_Sha_Step_7.wav,Sa_Sha_Step_7.wav,2,5.334699e-01
+7,Sa_Sha_Step_7.wav,Sa_Sha_Step_1.wav,Sa_Sha_Step_7.wav,Sa_Sha_Step_7.wav,2,4.138761e-01
+8,Sa_Sha_Step_1.wav,Sa_Sha_Step_1.wav,Sa_Sha_Step_7.wav,Sa_Sha_Step_1.wav,3,3.428228e-01

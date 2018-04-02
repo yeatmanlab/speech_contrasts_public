@@ -1,0 +1,10 @@
+2017-8-16,11:25:52
+trial,stimulus,sound1,sound2,selection,RT
+1,Sa_Sha_Step_7.wav,NA,NA,Sa,9.772029e-01
+2,Sa_Sha_Step_7.wav,NA,NA,Sa,5.271111e-01
+3,Sa_Sha_Step_1.wav,NA,NA,Sa,2.459171e-01
+4,Sa_Sha_Step_1.wav,NA,NA,Sha,5.716300e-01
+5,Sa_Sha_Step_1.wav,NA,NA,Sa,2.651867e+00
+6,Sa_Sha_Step_7.wav,NA,NA,Sa,1.402631e+00
+7,Sa_Sha_Step_1.wav,NA,NA,Sha,5.066130e-01
+8,Sa_Sha_Step_7.wav,NA,NA,Sa,3.603921e-01

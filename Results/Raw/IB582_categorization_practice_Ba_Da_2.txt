@@ -1,0 +1,10 @@
+2017-8-16,11:13:18
+trial,stimulus,sound1,sound2,selection,RT
+1,Ba_Da_Step_1.wav,Ba,Da,Ba,5.451491e-01
+2,Ba_Da_Step_1.wav,Ba,Da,Ba,2.682879e-01
+3,Ba_Da_Step_1.wav,Ba,Da,Ba,2.657762e-01
+4,Ba_Da_Step_7.wav,Ba,Da,Da,1.989410e-01
+5,Ba_Da_Step_7.wav,Ba,Da,Da,2.142479e-01
+6,Ba_Da_Step_1.wav,Ba,Da,Da,3.255599e-01
+7,Ba_Da_Step_7.wav,Ba,Da,Da,1.224912e+00
+8,Ba_Da_Step_7.wav,Ba,Da,Ba,2.229931e-01

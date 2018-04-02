@@ -1,0 +1,2 @@
+2017-8-23,11:40:11
+trial,sound1,sound2,sound3,sound4,selection,RT
