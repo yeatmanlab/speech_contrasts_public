@@ -28,7 +28,7 @@ continuum = 'Sha_Sa'; % Choices: 'Sha_Sa' or 'Ba_Da'
 for i = 1:length(sid_list)
     
     % Inputs: subject id, continuum, width of rectangular prior
-    read_psychometric_and_fit_uniform_slope(sid_list{i},continuum,0.1)
+    read_psychometric_and_fit(sid_list{i},continuum,0.1)
        
     
 end
